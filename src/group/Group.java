@@ -9,6 +9,7 @@ public class Group {
 	     System.out.println("56051272 Jintana");
 	     System.out.println("56051304 Duangporn");
 	      System.out.println("aaaaa");
+	      System.out.println("bbbbb");
 	     
 
 	}
